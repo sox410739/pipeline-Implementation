@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592065502 source:d:\programfiles\pipeline\pipeline\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<fstream>
+
